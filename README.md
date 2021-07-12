@@ -1,7 +1,5 @@
 # Emotion_Recognition
 
-# Vehicle Identification
-
 # Project Description
 
 This repository contains Python code for a CNN based Facial Expression Recognition solution.
